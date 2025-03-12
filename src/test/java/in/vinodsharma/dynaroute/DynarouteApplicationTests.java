@@ -8,6 +8,7 @@ class DynarouteApplicationTests {
 
 	@Test
 	void contextLoads() {
+		DynarouteApplication.main(new String[]{});
 	}
 
 }
